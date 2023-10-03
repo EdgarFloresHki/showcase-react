@@ -1,43 +1,108 @@
 import React from "react";
 
 
-
  export const NavMenu = [
         {
-            title: "Home",
+            title: "360° Survey",
             path: "/",
-           // icon: <AiIcons.AiFillHome />,
             cName: "nav-text"
         },
         {
-            title: "Reports",
+            title: "ABS 2.0",
             path: "/reports",
-            //icon: <IoIcons.IoIosPaper />,
             cName: "nav-text"
         },
         {
-            title: "Products",
+            title: "BDAP",
             path: "/products",
-           // icon: <FaIcons.FaCartPlus />,
             cName: "nav-text"
         },
         {
-            title: "Team",
+            title: "Blend In Cup",
             path: "/team",
-            //icon: <IoIcons.IoMdPeople />,
             cName: "nav-text"
         },
         {
-            title: "Messages",
+            title: "Bunn OJ",
             path: "/",
-            //icon: <FaIcons.FaEnvelopeOpenText />,
             cName: "nav-text"
         },
         {
-            title: "Support",
+            title: "Combi Oven",
             path: "/support",
-            //icon: <IoIcons.IoMdHelpCircle />,
             cName: "nav-text"
-        }
+        },
+         {
+             title: "Condensed Optimized Prep Line (COPL)",
+             path: "/support",
+             cName: "nav-text"
+         },
+         {
+             title: "Crew Serve Beverage",
+             path: "/support",
+             cName: "nav-text"
+         },
+     {
+         title: "Frozen Carbonated Beverage",
+         path: "/support",
+         cName: "nav-text"
+     },
+     {
+         title: "H+K Mobile Shelving",
+         path: "/support",
+         cName: "nav-text"
+     },
+     {
+         title: "High Capacity Freezers",
+         path: "/support",
+         cName: "nav-text"
+     },
+     {
+         title: "High Capacity Refrigerators",
+         path: "/support",
+         cName: "nav-text"
+     },
+     {
+         title: "Heated Landing Station",
+         path: "/support",
+         cName: "nav-text"
+     },
+     {
+         title: "Heated Soak Tank",
+         path: "/support",
+         cName: "nav-text"
+     },
+     {
+         title: "High Density Grill Wall",
+         path: "/support",
+         cName: "nav-text"
+     },
+     {
+         title: "Metro Delivery Staging Tech Center",
+         path: "/support",
+         cName: "nav-text"
+     },
+     {
+         title: "Next Generation Grills",
+         path: "/support",
+         cName: "nav-text"
+     },
+     {
+         title: "Optimized Prep Line (OPL)",
+         path: "/support",
+         cName: "nav-text"
+     },
+     {
+         title: "Vat 133",
+         path: "/support",
+         cName: "nav-text"
+     },
+     {
+         title: "Water Filtration",
+         path: "/support",
+         cName: "nav-text"
+     },
+
+
     ];
 
