@@ -16,7 +16,7 @@ function Navbar(){
     return (
         <React.Fragment>
             <nav className={navbar ? "nav-menu active" : "nav-menu"}>
-                <li><img src="" alt=""/></li>
+                <li><img src="{hklogo}" alt=""/></li>
                 <ul className="nav-menu-items">
                     {NavMenu.map((item,index) =>{
                         return(
