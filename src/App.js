@@ -2,11 +2,8 @@ import React from "react";
 import './App.css';
 import './components/navbarComponent/Navbar.css';
 import './assets/css/material.css'
-import './assets/js/core/jquery.min'
-import './assets/js/core/popper.min'
-import './assets/js/core/bootstrap-material-design.min'
+import './assets/css/showcase.css'
 
-import './assets/js/material-dashboard'
 
 //import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './components/navbarComponent/Navbar';

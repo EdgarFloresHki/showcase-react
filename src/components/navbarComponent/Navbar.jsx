@@ -43,13 +43,13 @@ function Navbar(){
 
                         </ul>
 
-                        <ul className="nav">
+                        <ul className="nav links-section">
                             <li className="nav-item">
                                 <Link className={isDropdown ? "nav-link" : "nav-link collapsed"} onClick={showDropDown} >
                                     <p>Links<b className="caret"></b></p>
                                 </Link>
 
-                                <div className={isDropdown ? "collapse show" : "collapse"}>
+                                <div className={isDropdown ? "collapse show" : "collapse hiden"}>
                                     <ul className="nav">
                                         {NavLinks.map((item,index) =>{
                                             return(

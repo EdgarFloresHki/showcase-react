@@ -3351,6 +3351,9 @@ input[type="button"].btn-block {
 
 .collapse {
     display: none;
+    position: relative;
+
+
 }
 
 .collapse.show {
